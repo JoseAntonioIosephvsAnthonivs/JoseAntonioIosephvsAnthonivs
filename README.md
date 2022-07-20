@@ -1,6 +1,7 @@
 ### Searching junior/trainee job as developer. 
 ###  Main Stack: Python 
 
+![ruby-programming-language](https://user-images.githubusercontent.com/62411708/180079104-787b01f7-44e7-4154-a9d2-b4eaae1b24f4.png)
 
 
 ### Contacts:
