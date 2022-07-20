@@ -9,8 +9,10 @@
 <h3>Curriculum in english: https://docs.google.com/document/d/1RDXERAJtiHJzkVMW0xnbZLOHTnvnjdgyG6BFVA1rbZk/edit?usp=sharing </h3>
 
 <h3>Curriculum in portuguese: https://docs.google.com/document/d/1J0riZ_IwjuOPD92M9kIL3-OYTitLl-IJIh2K3IKy5-U/edit?usp=sharing </h3>
+
 -----------------------------------------------------------------------------------------------------
 ####Main Language:
+
 -----------------------------------------------------------------------------------------------------
 ![javascript](https://user-images.githubusercontent.com/62411708/180080113-dcfd34c8-201e-4e17-bca7-366658cc2eea.png)
 ![java-coffee-cup-logo--v1](https://user-images.githubusercontent.com/62411708/180080145-a6e99b49-beb5-418e-bce0-08f3f0e4633c.png)
