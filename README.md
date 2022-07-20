@@ -1,5 +1,6 @@
 ### Searching junior/trainee job as developer. 
 ###  Main Stack: Python ![image](https://user-images.githubusercontent.com/62411708/180077762-772b0890-5515-4009-9154-8a2f66c78d1a.png)
+![image](https://user-images.githubusercontent.com/62411708/180077925-6cdd1a45-f4f0-4b45-b141-9918550aaf8a.png)
 
 ### Contacts:
 ### Celphone / Whatsapp: (71)987968388<br>
