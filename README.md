@@ -1,4 +1,4 @@
-<h2>Hi, i am José from Brasil/Bahia/Salvador, and i am searching job as junior/trainee as developer. </h2>
+<h2> Searching junior/trainee job as developer. </h2>
 <h3> Main Stack: Python</h3>
 <h2>Contacts:
 
