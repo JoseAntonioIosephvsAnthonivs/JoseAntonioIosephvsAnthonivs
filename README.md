@@ -23,8 +23,6 @@
   
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="clang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clang/clang-plain.svg">
-</div>
-  <img align="center" alt="c-lang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c-lang/c-lang-plain.svg">
-  
------------------------------------------------------------------------------------------------------
+
+     <img align="center" alt="rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+
