@@ -33,3 +33,8 @@
       
    <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 
+-----------------------------------------------------------------------------------------
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
