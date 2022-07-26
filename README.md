@@ -12,7 +12,7 @@
 -----------------------------------------------------------------------------------------------------
 ### Most Used Languages:
 <div align="center">
-  
+  <a href="https://github.com/JoseAntonioIosephvsAnthonivs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAntonioIosephvsAnthonivs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
