@@ -10,11 +10,7 @@
 <h3>Curriculum in portuguese: https://docs.google.com/document/d/1J0riZ_IwjuOPD92M9kIL3-OYTitLl-IJIh2K3IKy5-U/edit?usp=sharing </h3>
 
 -----------------------------------------------------------------------------------------------------
-### Most Used Languages:
-<div align="center">
-  <a href="https://github.com/JoseAntonioIosephvsAnthonivs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAntonioIosephvsAnthonivs&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 <div style="display: inline_block"><br>
   
