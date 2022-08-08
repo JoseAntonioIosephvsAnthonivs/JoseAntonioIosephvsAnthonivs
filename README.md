@@ -1,4 +1,3 @@
------------------------------------------------------------------------------------------------------
 ### Searching junior/trainee job as developer. 
 ### Celphone and Whatsapp: (71)987968388<br>
 ### Email: jojose.a8@gmail.com
