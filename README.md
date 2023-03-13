@@ -1,4 +1,4 @@
-### Searching junior job as developer. 
+### Open for a junior job 
 ### Celphone and Whatsapp: +55(71)987968388<br>
 ### Email: jojose.a8@gmail.com
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-antonio-085a2a197/)](https://www.linkedin.com/in/jos%C3%A9-antonio-085a2a197/)
