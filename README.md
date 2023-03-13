@@ -28,7 +28,7 @@
    <img align="center" alt="rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
       
    <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-plain.svg">
+   <img align="center" alt="sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-plain.svg">
 
 
 -----------------------------------------------------------------------------------------
