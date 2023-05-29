@@ -13,7 +13,7 @@
 
 <div style="display: inline_block"><br>
   
-   <h4>Main stacks: <h4>
+   <h3>Main stacks: <h3>
    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
      
    <img align="center" alt="django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
