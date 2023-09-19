@@ -5,7 +5,7 @@
 -----------------------------------------------------------------------------------------------------
 <h3>Curriculum in english:  </h3>
 
-<h3>Currículo português:  </h3>
+<h3>Currículo português: https://docs.google.com/document/d/1sm0VKaLfZLvTmT-4-3KfAdXZrmf3fdNYCbOfVPal4mU/edit?usp=sharing </h3>
 
 -----------------------------------------------------------------------------------------------------
 
