@@ -3,9 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-antonio-085a2a197/)](https://www.linkedin.com/in/jos%C3%A9-antonio-085a2a197/)
 
 -----------------------------------------------------------------------------------------------------
-<h3>Curriculum in english:  </h3>
-
-<h3>Currículo português: https://docs.google.com/document/d/1sm0VKaLfZLvTmT-4-3KfAdXZrmf3fdNYCbOfVPal4mU/edit?usp=sharing </h3>
+<h3>Curriculum in english: https://docs.google.com/document/d/1fyAk6fGphEqv4Up9AXrd4DdFgcG2iUhTIiEH-SvA3-M/edit?usp=sharing </h3>
+<h3>Currículo português:  https://docs.google.com/document/d/1Rg69IHhwMzgLC9yoplGuztIccIw78Dm_6ybaS0UPvb8/edit?usp=sharing </h3>
 
 -----------------------------------------------------------------------------------------------------
 
