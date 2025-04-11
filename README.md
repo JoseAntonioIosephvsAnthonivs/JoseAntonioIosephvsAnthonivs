@@ -1,5 +1,6 @@
 ### Contato: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-antonio-085a2a197/)](https://www.linkedin.com/in/jos%C3%A9-antonio-085a2a197/)
 ### Email: jojose.a8@gmail.com 
+Textos: https://medium.com/@linux-para-otarios
 -----------------------------------------------------------------------------------------------------
 <div style="display: inline_block"><br>
   
